@@ -66,4 +66,4 @@ Conduct a comprehensive analysis of Titanic Dataset to identify trends and patte
    - Very few Passengers embarked at queenstown
 
 # Conclusion
-My analysis shows that the factors which had the biggest impact on survival rate were: sex, age and class. If a passenger was female, aged between 21–40 and was in the Upper class of society, it was very likely that you would have survived the sinking of the Titanic.
+My analysis shows that the factors which had the biggest impact on survival rate were: sex, age and class.   If a passenger was female, aged between 21–40 and was in the Upper class of society, it was very likely that you would have survived the sinking of the Titanic.
