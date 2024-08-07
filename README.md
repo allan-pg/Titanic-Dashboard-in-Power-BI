@@ -12,7 +12,7 @@ It has 1309 rows and 10 columns
   
 ## Data Cleaning
 - Most of the data had no issues
-- I dropped columns which i did not intend to use in my dashboard
+- I dropped columns which i did not intend to use in my dashboard  
   ***Null Values***
 - Two rows had null values from embarked column in the titanic dataset
 - I dropped the rows since that could not have any impact on our Analysis
