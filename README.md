@@ -3,13 +3,20 @@
 
 ## Introduction
 Titanic Dataset can be downloaded from <a href="https://www.kaggle.com/datasets/brendan45774/test-file">Kaggle</a>  
-It has 1309 row and 10 columns  
+It has 1309 rows and 10 columns  
 
 ## Tools Used
 - Power BI
 - Power Query
 - Data Modelling
-
+  
+## Data Cleaning
+- Most of the data had no issues
+- I dropped columns which i did not intend to use in my dashboard
+  ***Null Values***
+- Two rows had null values from embarked column in the titanic dataset
+- I dropped the rows since that could not have any impact on our Analysis
+   
 ## BUSINESS REQUIREMENTS
 Conduct a comprehensive analysis of Titanic Dataset to identify trends and patterns using Power BI.  
 
