@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/4918622f-e532-4878-bd09-3784c6c8c278)
 
 ## Introduction
-Titanic Dataset can be downloaded from <a href="https://www.kaggle.com/datasets/brendan45774/test-file">Kaggle</a>  
+Titanic Dataset can be downloaded from Kaggle. Click <a href="https://www.kaggle.com/datasets/brendan45774/test-file">here </a>to download. 
 It has 1309 rows and 10 columns  
 
 ## Tools Used
