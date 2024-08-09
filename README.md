@@ -1,5 +1,6 @@
 # Titanic Dashboard in Power BI
-![image](https://github.com/user-attachments/assets/4918622f-e532-4878-bd09-3784c6c8c278)
+![image](https://github.com/user-attachments/assets/10f18cb2-bdb1-4734-ad5a-e6502cf7dcce)
+
 
 ## Introduction
 Titanic Dataset can be downloaded from Kaggle. Click on this<a href="https://www.kaggle.com/datasets/brendan45774/test-file"> link </a>to download.   
